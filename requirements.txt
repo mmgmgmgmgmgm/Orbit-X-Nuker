@@ -8,3 +8,4 @@ pylibcheck
 pyinstaller
 psutil
 keyboard
+httpx
