@@ -171,8 +171,8 @@ NOTE: Make sure you have Python & the Requirements installed!
 
 <a href="https://cheataway.com" target="_blank"><img src="https://discordapp.com/api/guilds/942426336348233799/widget.png?style=banner2" alt="Cheataway"/></a>
 
-**Hazard Stealer was created by Rdimo.**
+**Hazard Stealer was created by Rdimo.** (Maintained by DeKrypt)
 
-Discord: Rdimo#6969
+Discord: Rdimo#6969 / DeKrypt#7777
 
 Website: https://cheataway.com/
