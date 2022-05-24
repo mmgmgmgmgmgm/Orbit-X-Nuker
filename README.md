@@ -153,18 +153,21 @@ I hope you end up on the streets begging for spare change.
 
 #### Compiled Version
 ```sh-session
-https://github.com/Rdimo/Hazard-Nuker/releases
+Visit: https://github.com/Rdimo/Hazard-Nuker/releases
 Download the latest release (Hazard.zip) and extract the EXE to your desktop.
-And run it
+Finally, run the executable and enjoy!
 ```
 
 #### Source Code Version
-```
+```sh-session
 Click the green "Code" button.
 Click "Download ZIP"
-Extract the ZIP and run Hazard.py
+Extract the ZIP to a folder.
 
-NOTE: Make sure you have Python & the Requirements installed!
+Run setup.bat, which will install all dependencies and open the script.
+After that, every time you'd like to use Hazard, simply open start.bat
+
+NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MICROSOFT) & added to path.
 ```
 
 ---
@@ -173,8 +176,8 @@ NOTE: Make sure you have Python & the Requirements installed!
 
 <a href="https://cheataway.com" target="_blank"><img src="https://discordapp.com/api/guilds/942426336348233799/widget.png?style=banner2" alt="Cheataway"/></a>
 
-**Hazard Stealer was created by Rdimo.** (Maintained by DeKrypt)
+**Hazard Stealer was created by Rdimo & DeKrypt.**
 
-Discord: Rdimo#6969 / DeKrypt#7777
+Discord: Rdimo#6969 | DeKrypt#7777
 
 Website: https://cheataway.com/
