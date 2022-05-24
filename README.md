@@ -140,12 +140,14 @@ Change the following:
 
 ### ❗ Important
 * Found a bug? Join the [Discord](https://cheataway.com) and contact me (Rdimo) or create an issue about it directly in [here!](https://github.com/Rdimo/Hazard-Nuker/issues/new/choose)
-* **WARNING:** Many people have been selling/distributing infected versions of Hazard Nuker.
-* **DO NOT** install Hazard Nuker from any place other than this page. If you install it from somewhere else, expect to be **Hacked/Scammed.**
+> **WARNING:** Many people have been selling/distributing infected versions of Hazard Nuker.
+> **DO NOT** install Hazard Nuker from any place other than this page. If you install it from somewhere else, expect to be **Hacked/Scammed.**
 
-## 🤓・For you skids
-* We all know you cant code for shit but skidding peoples hard workand profiting from it, is just not it 
-* I hope you end up on the streets begging for spare change
+## 🤓 Dear Skids
+**Good for you,** you decided to skid something. <br>
+We can't stop you, but just know you're pathetic. <br>
+<br>
+I hope you end up on the streets begging for spare change.
 
 ## Installation 
 
