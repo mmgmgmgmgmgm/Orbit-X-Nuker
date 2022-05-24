@@ -1,10 +1,10 @@
 ---
-name: Got a question?
-about: If you got anything you want to ask, do so here!
-title: ''
-labels: question
-assignees: ''
+Name: Question
+About: 
+Title: 'Hazard Nuker [BUG]'
+Labels: question
+Assignees: 'DeKrypted'
 
 ---
 
-**Type your question here**
+**Type your question below.**
