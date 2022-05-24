@@ -1,10 +1,20 @@
 ---
-name: Need help?
-about: Type the problem your getting down here!
+name: Help Needed
+about: Need help fixing a problem? Let us know here!
 title: Hazard Nuker [HELP]
 labels: help wanted
-assignees: Rdimo
+assignees: DeKrypted
 
 ---
 
-**Type the issue you want help with down below**
+*Please fill out the following information:*
+**Issue:**
+
+
+**Operating System:**
+
+
+**(OPTIONAL) Extra Info:**
+
+
+**(OPTIONAL) Screenshots (Send as attatchment)**
