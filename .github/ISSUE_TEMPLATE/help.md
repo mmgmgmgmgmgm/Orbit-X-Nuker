@@ -12,19 +12,11 @@ assignees: [DeKrypted,Rdimo]
 **Issue:**
 
 
-
-
 **Operating System:**
-
-
 
 
 **(OPTIONAL) Extra Info:**
 
 
-
-
 **(OPTIONAL) Screenshots (Send as attatchment)**
-
-
 
