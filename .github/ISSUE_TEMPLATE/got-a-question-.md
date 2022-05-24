@@ -1,9 +1,9 @@
 ---
-Name: Question
-About: Have a question? Ask here!
-Title: 'Hazard Nuker [BUG]'
-Labels: question
-Assignees: 'DeKrypted'
+name: Question
+about: Have a question? Ask here!
+title: 'Hazard Nuker [BUG]'
+labels: question
+assignees: 'DeKrypted'
 
 ---
 
