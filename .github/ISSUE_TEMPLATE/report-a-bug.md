@@ -1,12 +1,22 @@
 ---
-name: Report A Bug
-about: Report a bug to help Rdimo Make Hazard Nuker even better
+name: Bug Report
+about: Report a bug to the developers.
 title: Hazard Nuker [BUG]
 labels: bug
-assignees: Rdimo
+assignees: DeKrypted
 
 ---
 
-**Describe the bug**
-Try to describe how and when the bug is occuring
-would be even better if you could send screenshot of it
+*Please provide the following info:*
+**Description:**
+What's expected to happen:
+
+
+What actually happens:
+
+
+**How to recreate this bug:**
+
+
+**(Optional but preferred) Screenshots/Video:**
+
