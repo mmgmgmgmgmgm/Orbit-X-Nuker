@@ -1,11 +1,16 @@
 ---
-name: Suggest an idea
-about: Got any Ideas to improve Hazard Nuker? Or want to see a feature getting added? Type them here!
+name: Suggestion
+about: Have an idea or feature you'd like to see? Tell us here!
 title: Hazard Nuker [ENHANCEMENT]
 labels: enhancement
-assignees: ''
+assignees: 'DeKrypted'
 
 ---
 
-**What would you like to see get added/changed to Hazard Nuker**
-Please state reasons like why and the benefits with implementing such thing
+*Please fill out the following:*
+**What you'd like to see:**
+
+
+**(OPTIONAL) How it would be implemented:**
+
+
