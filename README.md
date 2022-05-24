@@ -19,8 +19,8 @@
 
 **NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
 ㅤ
-#### Hazard Nuker was made by
-Love ❌
+#### Hazard Nuker was made with
+Love ❌ <br>
 Code ✅
 
 <h1 allign="center">- Features -</h1>
