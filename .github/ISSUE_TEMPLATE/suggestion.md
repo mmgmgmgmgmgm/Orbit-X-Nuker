@@ -12,9 +12,5 @@ assignees: [DeKrypted,Rdimo]
 **What you'd like to see:**
 
 
-
-
 **(OPTIONAL) How it would be implemented:**
-
-
 
