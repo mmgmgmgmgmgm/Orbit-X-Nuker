@@ -14,19 +14,11 @@ assignees: [DeKrypted,Rdimo]
 What's expected to happen:
 
 
-
-
 What actually happens:
-
-
 
 
 **How to recreate this bug:**
 
 
-
-
 **(Optional but preferred) Screenshots/Video:**
-
-
 
