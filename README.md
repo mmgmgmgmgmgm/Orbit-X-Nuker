@@ -151,14 +151,14 @@ I hope you end up on the streets begging for spare change.
 
 ## Installation 
 
-#### Compiled Version
+#### Compiled Version (Easier but more buggy)
 ```sh-session
 Visit: https://github.com/Rdimo/Hazard-Nuker/releases
 Download the latest release (Hazard.zip) and extract the EXE to your desktop.
 Finally, run the executable and enjoy!
 ```
 
-#### Source Code Version
+#### Source Code Version (More complicated but less buggy)
 ```sh-session
 Click the green "Code" button.
 Click "Download ZIP"
