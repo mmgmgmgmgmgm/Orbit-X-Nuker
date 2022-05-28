@@ -8,7 +8,22 @@ import base64
 
 from util.plugins.common import *
 from util.plugins.update import search_for_updates
-import util
+import util.accountNuke
+import util.dmdeleter
+import util.info
+import util.login
+import util.groupchat_spammer
+import util.massreport
+import util.QR_Grabber
+import util.seizure
+import util.server_leaver
+import util.spamservers
+import util.profilechanger
+import util.friend_blocker
+import util.create_token_grabber
+import util.unfriender
+import util.webhookspammer
+import util.massdm
 
 threads = 3
 cancel_key = "ctrl+x"
